@@ -35,6 +35,11 @@
 		"editorOverviewRuler.currentContentForeground": "#EE3A4355",
 		"editorOverviewRuler.incomingContentForeground": "#3AD90055",
 
+		// Errors and warnings:
+		"editorError.foreground": "#E42C48F5",
+		"editorWarning.border": "#FFFFFF00",
+		"editorWarning.foreground": "#F8D82D",
+
 		// Activity Bar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
 		"activityBar.background": "#2C206C",
