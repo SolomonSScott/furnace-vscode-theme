@@ -4,8 +4,16 @@
 	"colors": {
 		"editor.background": "#141D3C",
 		"editor.foreground": "#FFFFFF",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+
+		// Activity Bar.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
+		"activityBar.background": "#2C206C",
+		"activityBar.border": "#20213F",
+		"activityBar.dropBackground": "#E42C48",
+		"activityBar.foreground": "#FFFFFF",
+		"activityBarBadge.background": "#F8D82D",
+		"activityBarBadge.foreground": "#141D3C"
 	},
 	"tokenColors": [
 		{
