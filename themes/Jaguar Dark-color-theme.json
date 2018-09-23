@@ -2,8 +2,38 @@
 	"name": "Jaguar",
 	"type": "dark",
 	"colors": {
+		// Editor.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-colors
 		"editor.background": "#141D3C",
 		"editor.foreground": "#FFFFFF",
+		"editorLineNumber.foreground": "#7D77B3", // Color of editor line numbers.
+		"editorCursor.foreground": "#F8D82D", //  Color of the editor cursor.
+		//  The slection color battle starts here.
+		"editor.selectionBackground": "#352645", // Color of the editor selection.
+		"editor.inactiveSelectionBackground": "#595D81", // Color of the selection in an inactive editor. The color must not be opaque to not hide underlying decorations.
+		"editor.selectionHighlightBackground": "#2C206Cef", // Color for regions with the same content as the selection. The color must not be opaque to not hide underlying decorations.
+		"editor.wordHighlightBackground": "#FFFFFF0D", // Same words other places.
+		"editor.wordHighlightStrongBackground": "#FFFFFF0D", // Cursor inside current vairable.
+		"editor.findMatchBackground": "#2C206C", // Color of the current search match.
+		"editor.findMatchHighlightBackground": "#F5A73836", // #FF730056 Color of the other search matches.The color must not be opaque to not hide underlying decorations.
+		"editor.findRangeHighlightBackground": "#F5A73836", // #FF730056 No idea. Color the range limiting the search (Enable 'Find in Selection' in the find widget). The color must not be opaque to not hide underlying decorations.
+		"editor.hoverHighlightBackground": "#595D8156", // Highlight below the word for which a hover is shown. The color must not be opaque to not hide underlying decorations
+		"editor.lineHighlightBackground": "#2C206C", // Current line of code. Background color for the highlight of line at the cursor position.
+		"editor.lineHighlightBorder": "#2C206C",
+		"editor.rangeHighlightBackground": "#1F1F41",
+		"editorLink.activeForeground": "#7D77B3",
+		"editorIndentGuide.background": "#7D77B30F",
+		"editorIndentGuide.activeBackground": "#7D77B342",
+		"editorRuler.foreground": "#7D77B31C", // Editor Ruler.
+		"editorOverviewRuler.border": "#7D77B31C",
+		"editorCodeLens.foreground": "#7D77B3",
+		"editorBracketMatch.background": "#AA68FF46",
+		"editorBracketMatch.border": "#AA68FF46",
+
+		// Overview ruler is located beneath the scroll bar on the right edge of the editor and gives an overview of the decorations in the editor.
+		"editorOverviewRuler.commonContentForeground": "#FFC60055",
+		"editorOverviewRuler.currentContentForeground": "#EE3A4355",
+		"editorOverviewRuler.incomingContentForeground": "#3AD90055",
 
 		// Activity Bar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
@@ -28,6 +58,30 @@
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
 		"badge.background": "#F8D82D",
 		"badge.foreground": "#141D3C",
+
+		// Button.
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
+		"button.background": "#F8D82D",
+		"button.foreground": "#141D3C",
+		"button.hoverBackground": "#F5A738",
+
+		// Contrast.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_contrast-colors
+		"contrastActiveBorder": "#FFFFFF00",
+		"contrastBorder": "#FFFFFF00",
+
+		// Base Colors.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_base-colors
+		"descriptionForeground": "#FFFFFF",
+		"selection.background": "#E42C48",
+
+		// Dropdown.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_dropdown-control
+		"dropdown.background": "#2C206C",
+		"dropdown.border": "#2C2544",
+		"dropdown.foreground": "#FFFFFF",
+
+
 	},
 	"tokenColors": [
 		{
