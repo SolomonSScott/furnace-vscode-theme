@@ -2,7 +2,7 @@
 	"name": "Jaguar",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#191942",
+		"editor.background": "#141D3C",
 		"editor.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -22,7 +22,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5C5C88"
+				"foreground": "#7D77B3"
 			}
 		},
 		{
@@ -32,7 +32,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#B1B6D5"
+				"foreground": "#E42C48"
 			}
 		},
 		{
@@ -86,6 +86,15 @@
 			}
 		},
 		{
+			"name": "PHP Specific",
+			"scope": [
+				"punctuation.definition.variable.php",
+			],
+			"settings": {
+				"foreground": "#E42C48"
+			}
+		},
+		{
 			"name": "Tag",
 			"scope": [
 				"entity.name.tag",
@@ -93,7 +102,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#E42C48"
 			}
 		},
 		{
@@ -141,7 +150,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#7D77B3"
 			}
 		},
 		{
@@ -157,7 +166,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#FD9957"
+				"foreground": "#F8D82D"
 			}
 		},
 		{
@@ -173,7 +182,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FBE387"
+				"foreground": "#F5A738"
 			}
 		},
 		{
@@ -217,7 +226,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#F8D82D"
 			}
 		},
 		{
@@ -246,7 +255,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FBE387"
+				"foreground": "#F89E3E"
 			}
 		},
 		{
@@ -266,7 +275,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FBE387"
+				"foreground": "#F8D82D"
 			}
 		},
 		{
