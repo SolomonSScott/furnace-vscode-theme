@@ -1,0 +1,22 @@
+{
+    "name": "jaguar",
+    "displayName": "jaguar",
+    "description": "A dark color theme",
+    "version": "0.0.1",
+    "publisher": "solomonsscott",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jaguar Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jaguar Dark-color-theme.json"
+            }
+        ]
+    }
+}
