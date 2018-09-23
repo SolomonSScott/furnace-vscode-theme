@@ -4,7 +4,6 @@
 	"colors": {
 		"editor.background": "#141D3C",
 		"editor.foreground": "#FFFFFF",
-		"sideBarTitle.foreground": "#bbbbbb",
 
 		// Activity Bar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
@@ -13,7 +12,22 @@
 		"activityBar.dropBackground": "#E42C48",
 		"activityBar.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#F8D82D",
-		"activityBarBadge.foreground": "#141D3C"
+		"activityBarBadge.foreground": "#141D3C",
+
+		// Sidebar.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
+		"sideBar.background": "#141D3C",
+		"sideBar.border": "#20213F",
+		"sideBar.foreground": "#7D77B3",
+		"sideBar.dropBackground": "#E42C48",
+		"sideBarSectionHeader.background": "#2C206C",
+		"sideBarSectionHeader.foreground": "#7D77B3",
+		"sideBarTitle.foreground": "#7D77B3",
+
+		// Badge.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
+		"badge.background": "#F8D82D",
+		"badge.foreground": "#141D3C",
 	},
 	"tokenColors": [
 		{
