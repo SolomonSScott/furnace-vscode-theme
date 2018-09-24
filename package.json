@@ -1,6 +1,6 @@
 {
-    "name": "jaguar",
-    "displayName": "jaguar",
+    "name": "furnace",
+    "displayName": "furnace",
     "description": "A dark color theme",
     "version": "0.0.1",
     "publisher": "solomonsscott",
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Jaguar Dark",
+                "label": "Furnace",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Jaguar Dark-color-theme.json"
+                "path": "./themes/furnace-color-theme.json"
             }
         ]
     }
