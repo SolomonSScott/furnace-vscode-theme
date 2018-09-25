@@ -2,7 +2,7 @@
     "name": "furnace",
     "displayName": "furnace",
     "description": "A dark color theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "solomonsscott",
     "engines": {
         "vscode": "^1.27.0"
