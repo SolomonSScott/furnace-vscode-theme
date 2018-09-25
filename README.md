@@ -10,3 +10,10 @@
 
 ## Screenshots
 
+![React JS](https://raw.githubusercontent.com/SolomonSScott/furnace-vscode-theme/master/images/furnace-js-react.png)
+
+![CSS](https://raw.githubusercontent.com/SolomonSScott/furnace-vscode-theme/master/images/furnace-css.png)
+
+![HTML](https://raw.githubusercontent.com/SolomonSScott/furnace-vscode-theme/master/images/furnace-html.png)
+
+![JSON](https://raw.githubusercontent.com/SolomonSScott/furnace-vscode-theme/master/images/furnace-json.png)
