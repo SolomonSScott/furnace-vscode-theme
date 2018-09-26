@@ -1,22 +1,42 @@
 {
-    "name": "furnace",
-    "displayName": "furnace",
-    "description": "A dark color theme",
-    "version": "1.0.0",
-    "publisher": "solomonsscott",
-    "engines": {
-        "vscode": "^1.27.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Furnace",
-                "uiTheme": "vs-dark",
-                "path": "./themes/furnace-color-theme.json"
-            }
-        ]
-    }
+	"name": "furnace",
+	"displayName": "furnace",
+	"description": "A theme with dark purple background and warm tones for text.",
+	"version": "1.0.0",
+	"publisher": "solomonsscott",
+	"icon": "images/furnace-icon.png",
+	"galleryBanner": {
+		"color": "#141D3C",
+		"theme": "dark"
+	},
+	"bugs": {
+		"url": "https://github.com/SolomonSScott/furnace-vscode-theme/issues",
+		"email": "solomon.s.scott@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SolomonSScott/furnace-vscode-theme.git"
+	},
+	"keywords": [
+		"Furnace",
+		"Dark Theme",
+		"Purple",
+		"Shade of Purple",
+		"Yellow"
+	],
+	"engines": {
+		"vscode": "^1.27.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Furnace",
+				"uiTheme": "vs-dark",
+				"path": "./themes/furnace-color-theme.json"
+			}
+		]
+	}
 }
