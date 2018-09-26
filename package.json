@@ -1,8 +1,8 @@
 {
 	"name": "furnace",
-	"displayName": "furnace",
+	"displayName": "Furnace",
 	"description": "A theme with dark purple background and warm tones for text.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "solomonsscott",
 	"icon": "images/furnace-icon.png",
 	"galleryBanner": {
